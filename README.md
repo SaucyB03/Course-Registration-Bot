@@ -15,5 +15,12 @@ It works by using a library called Selenium which allows you to open a Chrome br
 ## Results
 So far it has a 100% success rate getting me and my friend into all of our classes. My friend even had only 3 spots in a few of the classes and got into all of them using the bot. When typically that would be near impossible.
 
+## Required Packages / Downloads
+- Selenium
+- Chrome Web Driver
+
 ## Selenium
 - https://www.selenium.dev/
+
+## Chrome WebDriver
+- https://chromedriver.chromium.org/
